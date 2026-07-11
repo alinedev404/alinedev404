@@ -1,4 +1,4 @@
-## 📜Bio
+# 📜Bio
 . 👋🏼 I'm Ali
 
 . 🎂 I'm 14 years old
@@ -7,7 +7,7 @@
 
 . 📚 Learning programming every day
 
-## 💪 Things I do for fun
+# 💪 Things I do for fun
 . 🏸 Badminton
 
 . ⌨️ Coding
