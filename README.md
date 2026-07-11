@@ -1,4 +1,4 @@
-### 📜Bio
+## 📜Bio
 . 👋🏼 I'm Ali
 
 . 🎂 I'm 14 years old
