@@ -13,3 +13,5 @@
 . ⌨️ Coding
 
 . 🎮 Video Game
+
+. 📚 Reading Book
