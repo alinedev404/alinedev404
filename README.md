@@ -6,3 +6,10 @@
 . 🐍 Beginner Python Developer
 
 . 📚 Learning programming every day
+
+## 💪 Things I do for fun
+. 🏸 Badminton
+
+. ⌨️ Coding
+
+. 🎮 Video Game
