@@ -35,19 +35,24 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ali-Nasr&color=blue)
 
 ### 📫 Connect with me
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alinedev404)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aline.dev404@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/aline.dev404)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@ali.coder404)
+<p align="center">
+  <a href="https://github.com/alinedev404" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" width="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aline.dev404@gmail.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" width="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/aline.dev404" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=twitter&theme=dark" width="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@ali.coder404" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube&theme=dark" width="55" />
+  </a>
+</p>
 
-<div align="center">
-
-
-<pre>
-  █████╗ ██╗     ██╗       ███╗   ██╗ █████╗ ███████╗██████╗ 
- ██╔══██╗██║     ██║       ████╗  ██║██╔══██╗██╔════╝██╔══██╗
- ███████║██║     ██║       ██╔██╗ ██║███████║███████╗██████╔╝
- ██╔══██║██║     ██║       ██║╚██╗██║██╔══██║╚════██║██╔══██╗
- ██║  ██║███████╗██║       ██║ ╚████║██║  ██║███████║██║  ██║
- ╚═╝  ╚═╝╚══════╝╚═╝       ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-</pre>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&animation=fadeIn" />
+</p>
