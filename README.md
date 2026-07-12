@@ -27,6 +27,12 @@
 . 🎮 Video Game
 
 . 📚 Reading Book
+
+<h2 align="center">Technologies I work with</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,windows,pycharm&theme=dark" />
+</p>
+
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ali-Nasr&theme=radical)
