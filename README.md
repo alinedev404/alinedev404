@@ -28,7 +28,7 @@
 
 . 📚 Reading Book
 
-<h2 align="center">Technologies I work with</h2>
+# 🛠️ Technologies I work with
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,github,vscode,windows,pycharm&theme=dark" />
 </p>
