@@ -18,7 +18,6 @@
 > *   **Programming Languages:** Python
 > *   **Operating System:** Windows11
 > *   **Primary Editor:** PyCharm, VScode
-> *   **Middle School:** Salehin
 
 # 💪 Things I do for fun
 . 🏸 Badminton
