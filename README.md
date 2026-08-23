@@ -15,7 +15,7 @@
 > [!Note]
 > *   **Full name:** Ali Nasr
 > *   **Age:** 14
-> *   **Programming Languages:** Python
+> *   **Skills:** Python, SQLite
 > *   **Operating System:** Windows11
 > *   **Primary Editor:** PyCharm, VScode
 
