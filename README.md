@@ -28,11 +28,6 @@
 
 . 📚 Reading Book
 
-# 🛠️ Technologies I work with
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,windows,pycharm&theme=dark" />
-</p>
-
 # 🧮 Things, quantified
 <div align="center">
   
